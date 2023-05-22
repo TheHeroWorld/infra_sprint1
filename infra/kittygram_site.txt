@@ -1,0 +1,5 @@
+IP: 130.193.55.60;
+name_taski: https://flugegeheimen.hopto.org;
+name_kittygram: https://kittyflu.hopto.org;
+login: admin;
+password: 5WfwS3;
