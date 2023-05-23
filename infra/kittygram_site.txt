@@ -1,5 +1,5 @@
 IP: 158.160.65.78;
 name_taski: https://dehors.hopto.org/;
-name_kittygram: http://kittygramhero.hopto.org/;
+name_kittygram: https://kittygramhero.hopto.org/;
 login: admin;
 password: admin;
