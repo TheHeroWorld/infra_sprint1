@@ -1,0 +1,8 @@
+IP: 158.160.65.78
+name_taski: полная ссылка https://dehors.hopto.org/
+name_kittygram: http://kittygramhero.hopto.org/
+Kitty gram login: admin
+Kitty gram password: admin
+
+Taski login: Admin
+Taski password: admin
